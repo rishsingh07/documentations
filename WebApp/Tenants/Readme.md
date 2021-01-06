@@ -32,7 +32,7 @@ We use Auth0 to integrate authentication and authorization in a web application.
 3. Callback URLs : [tenantURL]/verify-email, [tenantURL]/login
 4. Logout URLs: [tenantURL]/verify-email, [tenantURL]/
 
-2. Requirements:
+> 2. Requirements:
 - Custom Domain (Required)
 - Logo URL (Required)
 - Custom fonts url: (woff, woff2) - (Optional)
