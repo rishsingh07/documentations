@@ -1,24 +1,48 @@
 # Tenants
-Please contact partner at plant-for-the-planet dot org before creating this request.
+Description: A tenant is a partner of Plant for the planet which will host our web application on their domain and take care of the marketing of the same.
+for example: trees.salesforce.com 
+
+1. How to become a tenant?
+-> Please contact partner@plant-for-the-planet.org 
 
 
-Type of Tenant [Please select all that apply]
+Features provided to our Tenants.
 
-- [x] Custom Domain:
+- [x] Custom Domain
 
-- [ ] Custom Leaderboard Page (if necessary, please add link to designs: )
+- [ ] Custom Leaderboard Page (if necessary, please add link to designs)
 
-- [ ] Multiple Language (please list languages )
+- [ ] Multiple Language (please list languages)
 
-- [ ] Tenant Description on the Leaderboard Page (If default template) and the tree target:
+- [ ] Tenant Description on the Leaderboard Page (If default template) and the tree target
 
-- [ ] If hosting at subdirectory, current server type (NGINX/APACHE)?
+- [ ] If hosting at subdirectory, current server type (NGINX/APACHE)
 
-- [ ] Enable Login (Auth0 SPA App) get Client ID
+- [ ] Enable Authentication (Read more)
 
-Callback URLs : [tenantURL]/verify-email, [tenantURL]/login
+### Customisations Available
 
-Logout URLs: [tenantURL]/verify-email, [tenantURL]/
+Steps for Authentication: 
+We use Auth0 to integrate authentication and authorization in a web application.
+1. Signup on [Auth0](https://auth0.com/)
+2. Get client ID (Auth0 SPA App)
+3. Callback URLs : [tenantURL]/verify-email, [tenantURL]/login
+4. Logout URLs: [tenantURL]/verify-email, [tenantURL]/
+
+2. Requirements:
+- Custom Domain (Required)
+- Logo URL (Required)
+- Custom fonts url: (woff, woff2) - (Optional)
+- Mapbox token (Required)
+- Generate Favicons at: https://iconifier.net
+- Auth0 client ID (Optional)
+- List of languages
+- Short description
+- Tree target
+
+
+
+
 
 **Checklist for Developer**
 
