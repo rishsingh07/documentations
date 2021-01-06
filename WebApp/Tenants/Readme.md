@@ -3,7 +3,8 @@
 for example: (https://trees.salesforce.com/) 
 
 > 1. How to become a tenant?
- Please contact partner@plant-for-the-planet.org 
+>
+>Please contact partner@plant-for-the-planet.org 
 
 
 ***Features provided to our Tenants.***
