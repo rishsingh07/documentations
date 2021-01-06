@@ -3,16 +3,16 @@
 for example: (https://trees.salesforce.com/) 
 
 > 1. How to become a tenant?
--> Please contact partner@plant-for-the-planet.org 
+ Please contact partner@plant-for-the-planet.org 
 
 
-Features provided to our Tenants.
+***Features provided to our Tenants.***
 
-- [x] Custom Domain
+- [x] *Custom Domain* - Tenant will be provided with a customised domain as per their requirements.
 
-- [ ] Custom Leaderboard Page (if necessary, please add link to designs)
+- [ ] *Custom Leaderboard Page* - A customised leaderboard is where one can view the number of trees planted by them as well as by other peers. (if necessary, please add link to designs)
 
-- [ ] Multiple Language (please list languages)
+- [ ] *Multiple Language* - A tenant can view their project as per their own regional language i.e: Germany, Spanish, English, Portuguese. (please list languages)
 
 - [ ] Tenant Description on the Leaderboard Page (If default template) and the tree target
 
@@ -22,7 +22,9 @@ Features provided to our Tenants.
 
 ### Customisations Available
 
-Steps for Authentication: 
+
+
+### Steps for Authentication: 
 We use Auth0 to integrate authentication and authorization in a web application.
 1. Signup on [Auth0](https://auth0.com/)
 2. Get client ID (Auth0 SPA App)
