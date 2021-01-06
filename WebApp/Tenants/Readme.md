@@ -1,8 +1,8 @@
 # Tenants
-Description: A tenant is a partner of Plant for the planet which will host our web application on their domain and take care of the marketing of the same.
-for example: trees.salesforce.com 
+**Description:** A tenant is a partner of *Plant for the planet* which will host our web application on their domain and take care of the marketing of the same.
+for example: (https://trees.salesforce.com/) 
 
-1. How to become a tenant?
+> 1. How to become a tenant?
 -> Please contact partner@plant-for-the-planet.org 
 
 
